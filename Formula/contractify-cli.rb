@@ -3,7 +3,7 @@ class ContractifyCli < Formula
   homepage "https://contractify.io"
   url "https://contractify-builds.fra1.digitaloceanspaces.com/contractify-cli/be1521d7b965d8f0ee510933b8981a797e6f4dfc/contractify-cli-macos.tar.gz"
   version "2023-06-01T12.14.36"
-  sha256 "21836cdda08c1f128232c1c6bca9a0ca70499ba4485858dd52231c676251cf9f"
+  sha256 "ec7c431a590d0b89c631f3b6d5a79680f84e491fb1911538a64a61516d66df1b"
   license "MIT"
 
   def install
